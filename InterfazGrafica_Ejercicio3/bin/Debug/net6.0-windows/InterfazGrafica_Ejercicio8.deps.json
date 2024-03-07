@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "InterfazGrafica_Ejercicio8/1.0.0": {
+        "runtime": {
+          "InterfazGrafica_Ejercicio8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfazGrafica_Ejercicio8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
